@@ -20,7 +20,7 @@ function updateGrid(){
 
 }
 
-
+//hello
 
 function drawBox(container, row, col, letter = ''){
     const box = document.createElement('div');  //create new div element
