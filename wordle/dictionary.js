@@ -1,4 +1,4 @@
-export const testDictionary = ['paris', 'banka', 'davin', 'doggy'];
+export const testDictionary = ['tests'];
 
 export const realDictionary = [
   "paris",
